@@ -1,0 +1,14 @@
+
+// Apply the application plugin to add support for building an application
+apply plugin: 'application'
+
+
+
+dependencies {
+    compile project(':FXQuery')
+}
+
+
+// Define the main class for the application
+mainClassName = 'App'
+

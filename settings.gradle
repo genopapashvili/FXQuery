@@ -1,0 +1,3 @@
+include'FXQuery'
+include 'demo'
+rootProject.name = 'FXQuery-root'
